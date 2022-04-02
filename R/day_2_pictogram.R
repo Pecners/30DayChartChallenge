@@ -68,4 +68,5 @@ long_states %>%
        caption = glue("Data from The Pulitzer Prizes and Wikipedia | ",
                       "Analysis and graphic by Spencer Schien (@MrPecners)"))
 
-ggsave(filename = "plots/day_2_pictogram.png", bg = bg)
+ggsave(filename = "plots/day_2_pictogram.png", bg = bg,
+       h = 8, w = 7.5)
