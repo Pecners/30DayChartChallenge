@@ -101,7 +101,7 @@ year_totals %>%
         axis.text.y = element_text(color = alpha("white", .5), family = "frl"),
         plot.title.position = "plot",
         plot.title = element_textbox(color = red, family = "frl", size = 24,
-                                     fill = alpha(gold, .75), padding = margin(5,2,2,2),
+                                     fill = gold, padding = margin(5,2,2,2),
                                      r = unit(3, "pt"), box.color = gold),
         plot.subtitle = element_textbox(color = gold, fill = NA, size = 14,
                                         family = "frl"),
