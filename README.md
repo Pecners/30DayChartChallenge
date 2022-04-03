@@ -2,6 +2,10 @@
 
 These are my submissions to the #30DayChartChallenge.
 
+## [Day 3 - Historical](R/day_3_historical.R)
+
+![](plots/day_3_historical.png)
+
 ## [Day 2 - Pictogram](R/day_2_pictogram.R)
 
 ![](plots/day_2_pictogram.png)
