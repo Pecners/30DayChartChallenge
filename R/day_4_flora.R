@@ -43,7 +43,7 @@ plots <- map(1:nrow(d), function(i) {
                   ymin = 0, ymax = `Vertical Height verified` * .75),
               fill = brown) +
     geom_polygon(data = can, aes(x = x, y = y), fill = green) +
-    geom_text(x = 0, y = -10, label = str_wrap(dd$`Common Name`, 15), size = 2.5,
+    geom_text(x = 0, y = -10, label = str_wrap(dd$`Common Name`, 15), size = 3,
               family = "ad", color = brown, lineheight = .9, vjust = 1) +
     coord_cartesian(clip = "off") +
     theme_void() +
