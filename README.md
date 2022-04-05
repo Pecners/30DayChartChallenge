@@ -2,10 +2,13 @@
 
 These are my submissions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022).
 
+## [Day 5 - Slope](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-05/final_plot.R)
+
+![](plots/day_5_slope.png)
+
 ## [Day 4 - Flora](R/day_4_flora.R)
 
 ![](plots/day_4_flora.png)
-
 
 ## [Day 3 - Historical](R/day_3_historical.R)
 
