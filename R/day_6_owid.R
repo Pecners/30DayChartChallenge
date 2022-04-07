@@ -22,7 +22,7 @@ font_add_google("Vollkorn", "v")
 showtext_auto()
 
 clean %>%
-  filter(diff == max(diff) | diff == min(diff)) %>%
+  #filter(diff == max(diff) | diff == min(diff)) %>%
   ggplot(aes(x = 0, xend = diff)) +
   annotate(geom = "segment", x = max(clean$diff), xend = max(clean$diff),
                y = 0, yend = -.1, color = alpha("white", .25), linetype = 2) +
