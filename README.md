@@ -2,7 +2,7 @@
 
 These are my submissions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022).
 
-## [Day 6 - OWID](plots/day_6_owid.R)
+## [Day 6 - OWID](R/day_6_owid.R)
 
 ![](plots/day_6_owid.png)
 
