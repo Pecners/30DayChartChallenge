@@ -69,6 +69,6 @@ clean %>%
 
   
 
-ggsave(filename = "plots/ggraph_mistake.png", bg = bg,
+ggsave(filename = "plots/day_6_owid.png", bg = bg,
        w = 9, h = 7)
 

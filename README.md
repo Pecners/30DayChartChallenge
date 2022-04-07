@@ -2,6 +2,10 @@
 
 These are my submissions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022).
 
+## [Day 6 - OWID](plots/day_6_owid.R)
+
+![](plots/day_6_owid.png)
+
 ## [Day 5 - Slope](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-05/final_plot.R)
 
 ![](plots/day_5_slope.png)
