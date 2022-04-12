@@ -18,6 +18,12 @@ Submissions
 
 ![](plots/day_10_experimental.png)
 
+## [Day 8 - Mountains](R/day_8_mountains.R)
+
+![](plots/day_8_mountains_big.png)
+
+![](plots/day_8_mountains_small.png)
+
 ## [Day 7 - Physical](R/day_7_physical.R)
 
 ![](plots/day_7_physical.png)
