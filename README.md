@@ -1,6 +1,14 @@
-# 30DayChartChallenge
+About
+================
 
 These are my submissions to the [#30DayChartChallenge](https://github.com/dominicroye/30DayChartChallenge_Edition2022).
+
+Submissions
+================
+
+## [Day 12 - The Economist theme](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-12/final_plot.R)
+
+![](plots/day_12_economist_theme.png)
 
 ## [Day 11 - Circular](R/day_11_circular.R)
 
