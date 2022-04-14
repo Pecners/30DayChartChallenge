@@ -6,6 +6,10 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
+## [Day 13 - Correlation](R/day_13_correlation.R)
+
+![](plots/day_13_correlation.png)
+
 ## [Day 12 - The Economist theme](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-12/final_plot.R)
 
 ![](plots/day_12_economist_theme.png)
