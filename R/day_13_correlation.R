@@ -98,11 +98,11 @@ f %>%
         axis.line.x = element_line(arrow = arrow(length = unit(.2, "cm"), ends = "both", type = "closed"),
                                    color = "#340E51"),
         plot.title = element_text(size = 18, hjust = .5),
-        plot.subtitle = element_text(size = 14, hjust = .5,
+        plot.subtitle = element_text(size = 12, hjust = .5,
                                      margin = margin(b = 20))) +
   labs(x = "", y = "",
-       title = "What makes a Spice Girls song danceable?",
-       subtitle = "Sugar, spice, and everything valence",
+       subtitle = "That's what makes a Spice Girls song danceable",
+       title = "Sugar and spice and everything valence",
        caption =  "Graphic by Spencer Schien (@MrPecners) | Data from Spotify") +
   coord_flip(clip = "off")
 
