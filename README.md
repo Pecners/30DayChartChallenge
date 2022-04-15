@@ -5,6 +5,11 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 
 Submissions
 ================
+## [Day 14 - 3-dimensional](R/day_14_3d.R)
+
+![](plots/day_14_3d.png)
+![](plots/gif/day_14_3d_1.mp4)
+
 
 ## [Day 13 - Correlation](R/day_13_correlation.R)
 
