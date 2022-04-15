@@ -8,7 +8,9 @@ Submissions
 ## [Day 14 - 3-dimensional](R/day_14_3d.R)
 
 ![](plots/day_14_3d.png)
-![](plots/gif/day_14_3d_1.mp4)
+
+https://user-images.githubusercontent.com/47727946/163598117-d14de0a4-7329-4270-9484-033bfd034a0d.mp4
+
 
 
 ## [Day 13 - Correlation](R/day_13_correlation.R)
