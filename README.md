@@ -5,6 +5,11 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 
 Submissions
 ================
+
+## [Day 17 - Connections](R/day_17_connections.R)
+
+![](plots/day_17_connections.png)
+
 ## [Day 14 - 3-dimensional](R/day_14_3d.R)
 
 ![](plots/day_14_3d.png)

@@ -48,7 +48,7 @@ r <- tr_a_df %>%
 
 
 plot_gg(r, multicore = TRUE, width=5,height=5, zoom = .4, soliddepth = 0,
-        windowsize = c(1400, 866), phi = 30, theta = 30) 
+        windowsize = c(1400, 866), phi = 30, theta = 30, scale = .000012) 
 
 render_snapshot(filename = "plots/day_14_3d.png")
 
