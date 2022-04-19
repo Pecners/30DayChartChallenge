@@ -8,7 +8,7 @@ Submissions
 
 ## [Day 18 - OECD](R/day_18_OECD.R)
 
-![](plots/day_18_OECD.png)
+![](plots/day_18_oecd.png)
 
 ## [Day 17 - Connections](R/day_17_connections.R)
 
