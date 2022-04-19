@@ -6,6 +6,10 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
+## [Day 18 - OECD](R/day_18_OECD.R)
+
+![](plots/day_18_OECD.png)
+
 ## [Day 17 - Connections](R/day_17_connections.R)
 
 ![](plots/day_17_connections.png)
