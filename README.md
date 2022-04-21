@@ -6,6 +6,10 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
+## [Day 18 - OECD](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-19/final_plot.R)
+
+![](plots/day_20_new_tool.png)
+
 ## [Day 18 - OECD](R/day_18_OECD.R)
 
 ![](plots/day_18_oecd.png)
