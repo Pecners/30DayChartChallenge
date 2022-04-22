@@ -6,7 +6,11 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
-## [Day 18 - OECD](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-19/final_plot.R)
+## [Day 21 - Down/Upwards](R/day_21_updown.R)
+
+![](plots/day_21_updown.png)
+
+## [Day 20 - New tool](https://github.com/Pecners/tidytuesday/blob/master/2022/2022-04-19/final_plot.R)
 
 ![](plots/day_20_new_tool.png)
 
