@@ -82,8 +82,8 @@ wide %>%
         plot.title = element_textbox(family = "l", size = 28),
         plot.subtitle = element_text(family = "l", size = 16),
         plot.caption = element_text(family = "l", hjust = 0, color = "grey70")) +
-  labs(title = glue("What goes <span style='color:{c[5]}'>**light**</span> must go ",
-                    "<span style='color:{c[9]}'>**dark**</span>"),
+  labs(title = glue("What goes <span style='color:{c[9]}'>**dark**</span> must go ",
+                    "<span style='color:{c[5]}'>**light**</span>"),
        subtitle = "Monthly distribution of day lengths in Milwaukee, Wisconsin",
        x = "", y = "",
        caption = "Graphic by Spencer Schien (@MrPecners) | Data from NOAA")
