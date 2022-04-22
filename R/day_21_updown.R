@@ -84,7 +84,7 @@ wide %>%
         plot.caption = element_text(family = "l", hjust = 0, color = "grey70")) +
   labs(title = glue("What goes <span style='color:{c[5]}'>**light**</span> must go ",
                     "<span style='color:{c[9]}'>**dark**</span>"),
-       subtitle = "Monthly distribution of daylight hours in Milwaukee, Wisconsin",
+       subtitle = "Monthly distribution of day lengths in Milwaukee, Wisconsin",
        x = "", y = "",
        caption = "Graphic by Spencer Schien (@MrPecners) | Data from NOAA")
 
