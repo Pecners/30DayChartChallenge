@@ -6,6 +6,10 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
+## [Day 22 - Animation](R/day_22_animation.R)
+
+![](plots/day_22_animation.gif)
+
 ## [Day 21 - Down/Upwards](R/day_21_updown.R)
 
 ![](plots/day_21_updown.png)
