@@ -6,6 +6,10 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
+## [Day 23 - Tiles](R/day_23_tiles.R)
+
+![](plots/day_23_tiles.png)
+
 ## [Day 22 - Animation](R/day_22_animation.R)
 
 ![](plots/day_22_animation.gif)
