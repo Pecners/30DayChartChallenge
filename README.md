@@ -7,12 +7,8 @@ Submissions
 ================
 
 ## [Day 26 - Interactive](R/day_26_interactive.R)
-<<<<<<< HEAD
-git 
-=======
 
 https://user-images.githubusercontent.com/47727946/165413905-390d6254-9968-4f88-a4aa-5cc4556c1bbc.mov
->>>>>>> 2626dc641fd3edaaaf2f220f6f30b6f2178d747d
 
 ## [Day 23 - Tiles](R/day_23_tiles.R)
 
