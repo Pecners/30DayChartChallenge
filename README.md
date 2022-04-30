@@ -6,6 +6,10 @@ These are my submissions to the [#30DayChartChallenge](https://github.com/domini
 Submissions
 ================
 
+## [Day 29 - Storytelling](R/day_29_storytelling.R)
+
+![](plots/day_29_storytelling.png)
+
 ## [Day 26 - Interactive](R/day_26_interactive.R)
 
 https://user-images.githubusercontent.com/47727946/165413905-390d6254-9968-4f88-a4aa-5cc4556c1bbc.mov
