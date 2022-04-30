@@ -18,6 +18,10 @@ Submissions
 
 https://user-images.githubusercontent.com/47727946/165413905-390d6254-9968-4f88-a4aa-5cc4556c1bbc.mov
 
+## [Day 25 - Trend](R/day_25_trend.R)
+
+![](plots/day_25_trend.png)
+
 ## [Day 23 - Tiles](R/day_23_tiles.R)
 
 ![](plots/day_23_tiles.png)
