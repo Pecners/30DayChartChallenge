@@ -46,6 +46,10 @@ https://user-images.githubusercontent.com/47727946/165413905-390d6254-9968-4f88-
 
 ![](plots/day_17_connections.png)
 
+## [Day 16 - Environment](R/day_16_environment.R)
+
+![](plots/day_16_environment.png)
+
 ## [Day 14 - 3-dimensional](R/day_14_3d.R)
 
 ![](plots/day_14_3d.png)
