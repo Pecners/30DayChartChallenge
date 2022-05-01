@@ -10,7 +10,9 @@ library(geomtextpath)
 # You can download the data here: https://www.drought.gov/states/Wisconsin
 
 data <- read_csv("data/SPI-wisconsin.csv", 
-                 name_repair = function(x) str_to_lower(x))
+                 name_repair = function(x) {
+                   str_to_lower(x)
+                 })
 
 # Clean data to make it long, get usable dates
 
@@ -111,7 +113,7 @@ long %>%
                                                         size = 8))) +
   labs(fill = "",
        title = "Wisconsin Drought Conditions",
-       subtitle = glue("The period from 2016 to 2021 (highlighted above) was a wet one in Wisconsin, ",
+       subtitle = glue("The period from 2016 to 2021 (highlighted above) was a wet one liin Wisconsin, ",
                        "with over 90% of the state wetter than average for 41 out of 60 months. ",
                        "Since 2020, there has not been a single month where that was the case."),
        caption = glue("Graphic by Spencer Schien (@MrPecners) | ",
